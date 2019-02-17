@@ -11,10 +11,6 @@ namespace PadawansTask9
             {
                 throw new ArgumentException();
             }
-            if (point == null)
-            {
-                throw new ArgumentNullException();
-            }
             if (points == null)
             {
                 throw new ArgumentNullException();
